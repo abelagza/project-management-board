@@ -3,7 +3,6 @@
 ## This project has been broken down into 6 phases, which are explained below:
 
 ### Phase 1. Running the initial Project.
-• Download project instructions from Github
 *this chapter uses an intial repo/project, not a blank app from zero.
 *it build on **Create React App**, same app as on Chapter 2, so no manual webpack/Babel circus this time.
 *if the app behaves strangely offline, clear old **Service worker cache** in browser devtools. The book explicitly warns about cached PWA versions.
